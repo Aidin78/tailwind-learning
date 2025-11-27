@@ -86,23 +86,6 @@ Tutorial sources and helpful resources I'm using:
 - Various online tutorials and courses
 - Community examples and best practices
 
-## 🤝 Contributing
-
-This is a personal learning repository, but if you're also learning Tailwind CSS:
-- Feel free to fork and use it for your own learning
-- Suggestions and feedback are always welcome
-- Share your own learning projects!
-
 ## 📄 License
 
 This is an educational repository. Feel free to use the code for learning purposes.
-
-## 📫 Contact
-
-If you have any questions or suggestions about these projects, feel free to reach out!
-
----
-
-**⭐ Learning in Progress** - This repository is actively being updated as I continue my Tailwind CSS journey!
-
-*Last Updated: November 2024*
